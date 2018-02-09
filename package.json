@@ -1,0 +1,53 @@
+{
+    "title": "Elliot Anderson Resume",
+    "name": "elliotanderson-resume",
+    "version": "4.0.0",
+    "description": "Full stack web developer and Drexel Student living in the Greater Philadelphia area.  This is my resume and I am looking for freelance or contractual jobs, or even a part-time job.",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "resume",
+        "philadelphia",
+        "elliot",
+        "anderson",
+        "developer",
+        "fullstack",
+        "full-stack",
+        "laravel",
+        "php",
+        "javascript",
+        "js"
+    ],
+    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "bugs": {
+        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
+        "email": "feedback@startbootstrap.com"
+    },
+    "license": "MIT",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "Elliot Anderson"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.0.0",
+        "devicons": "^1.8.0",
+        "jquery": "3.3.1",
+        "simple-line-icons": "^2.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.23.6",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.2",
+        "gulp-header": "2.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.1.0",
+        "gulp-uglify": "3.0.0"
+    }
+}
